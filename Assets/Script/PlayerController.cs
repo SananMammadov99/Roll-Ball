@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour {
 	public GameObject pickup;
 
 	private int count;
-
+	//Hello
 
 	private Rigidbody rb;
 	void Start ()
